@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Java**, **SQL**, **Python** and **JavaScript**
 - 👯 I’m looking to collaborate like **junior developer**
 - 📫 How to reach me: ...
-- - 🌐 Website [](soon)
+- 🌐 Website [](soon)
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
