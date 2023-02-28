@@ -16,8 +16,8 @@
 - 💬 Ask me about **Java**, **SQL**, **HTML** or **Marine Science**
 - 🌱 I’m currently learning **Java**, **SQL**, **Python** and **JavaScript**
 - 👯 I’m looking to collaborate like **junior developer**
-- 📫 How to reach me: ...
-- 🌐 Website [](soon)
+- 📫 How to reach me: lauragruiz98@gmail.com
+- 🌐 Website [](soon) soon
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
