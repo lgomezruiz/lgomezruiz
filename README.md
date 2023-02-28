@@ -6,7 +6,6 @@
 
 <div> 
     <a href="https://www.linkedin.com/in/lgomezruiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:lauragruiz98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ---
@@ -16,7 +15,6 @@
 - 💬 Ask me about **Java**, **SQL**, **HTML** or **Marine Science**
 - 🌱 I’m currently learning **Java**, **SQL**, **Python** and **JavaScript**
 - 👯 I’m looking to collaborate like **junior developer**
-- 📫 How to reach me: lauragruiz98@gmail.com
 - 🌐 Website [](soon) soon
 
 <div align="left">
