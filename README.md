@@ -1,9 +1,7 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm YouDevs</h1>
-    <h3 align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
-        Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
-        YouDevs.</h3>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDkwMTcwZTJiNWIzYTJlYmQ2MDQ5NWU1Y2M4YjdkMzk4Y2Q4ODk2MyZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
+    <h1 align="center">Hi 👋, I'm Laura</h1>
+    <h3 align="center">A Marine Scientist and a Web Developer student from Spain.</h3>
 </div>
 
 ---
