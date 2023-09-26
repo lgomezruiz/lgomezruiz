@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laura Gómez Ruiz</h1>
 <h3 align="center">A Marine Scientist and Java Junior Developer from Spain</h3>
 
-- 🌱 I’m currently learning **Java, SQL, HTML, CSS**
+- 🌱 I’m currently learning **Java, SQL, HTML, CSS, Git**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
