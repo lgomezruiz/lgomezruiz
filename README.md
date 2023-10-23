@@ -1,4 +1,5 @@
-<h3 align="center">A Java Junior Developer and Marine Scientist from Spain 🇪🇸</h3>
+<h1 align="center"> Laura Gómez Ruiz </h1>
+<h3 align="center">A Java Junior Developer and Marine Scientist from Spain </h3>
 
 - 🔭 I’m currently working on [RPG Game](https://github.com/lgomezruiz/RPG_GAME1)
 
