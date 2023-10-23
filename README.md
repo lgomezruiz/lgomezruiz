@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Laura Gómez Ruiz</h1>
-<h3 align="center">A Marine Scientist and Java Junior Developer from Spain</h3>
+<h3 align="center">A Java Junior Developer and Marine Scientist from Spain 🇪🇸</h3>
 
-- 🌱 I’m currently learning **Java, SQL, HTML, CSS, Git**
+- 🔭 I’m currently working on [RPG Game](https://github.com/lgomezruiz/RPG_GAME1)
+
+- 🌱 I’m currently learning **Java, SQL, Python, Git**
+
+- 👨‍💻 All of my projects are available at [https://lauragomezruiz.netlify.app/](https://lauragomezruiz.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
