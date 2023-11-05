@@ -1,7 +1,8 @@
-[![Header](https://github.com/lgomezruiz/lgomezruiz/assets/97950503/d50af19a-60bd-4e3f-9d9a-fd927231b735 "Header")]
+![Header](https://github.com/lgomezruiz/lgomezruiz/assets/97950503/d50af19a-60bd-4e3f-9d9a-fd927231b735 "Header")
 
-<h1 align="center"> Laura Gómez Ruiz </h1>
-<h3 align="center">A Java Junior Developer and Marine Scientist from Spain </h3>
+[![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/lgomezruiz)
+[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lgomezruiz/)
+[![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/onebreathlaura/)
 
 - 🔭 I’m currently working on [RPG Game](https://github.com/lgomezruiz/RPG_GAME1)
 
