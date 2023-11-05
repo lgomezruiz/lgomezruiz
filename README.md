@@ -1,3 +1,5 @@
+[![Header](https://github.com/lgomezruiz/lgomezruiz/assets/97950503/d50af19a-60bd-4e3f-9d9a-fd927231b735 "Header")]
+
 <h1 align="center"> Laura Gómez Ruiz </h1>
 <h3 align="center">A Java Junior Developer and Marine Scientist from Spain </h3>
 
