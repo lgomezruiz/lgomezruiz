@@ -23,17 +23,17 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lgomezruiz&show_icons=true&locale=en&layout=compact" alt="lgomezruiz" /></p>
 
-## My Best Proyects
+## My Best Projects
 
-- DIGITAL CLOCK [click](https://github.com/lgomezruiz/Digital-Clock)
+- [DIGITAL CLOCK](https://github.com/lgomezruiz/Digital-Clock)
 
   A simple digital clock that displays the local system time, day of the week and date.
 
-- BEVERAGE WAREHOUSE [click](https://github.com/lgomezruiz/Beverage-Warehouse)
+- [BEVERAGE WAREHOUSE](https://github.com/lgomezruiz/Beverage-Warehouse)
 
   Small program to create a beverage warehouse using Object Oriented Programming (OPP).
   
-- HOOKIE WATERS [live](https://trinomiostudios.itch.io/hooky-waters-webgl)
+- [HOOKIE WATERS](https://trinomiostudios.itch.io/hooky-waters-webgl)
 
   Platforms: Android, Web
 
