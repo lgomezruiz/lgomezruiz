@@ -23,3 +23,20 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lgomezruiz&show_icons=true&locale=en&layout=compact" alt="lgomezruiz" /></p>
 
+## My Best Proyects
+
+- DIGITAL CLOCK [click](https://github.com/lgomezruiz/Digital-Clock)
+
+  A simple digital clock that displays the local system time, day of the week and date.
+
+- BEVERAGE WAREHOUSE [click](https://github.com/lgomezruiz/Beverage-Warehouse)
+
+  Small program to create a beverage warehouse using Object Oriented Programming (OPP).
+  
+- HOOKIE WATERS [live](https://trinomiostudios.itch.io/hooky-waters-webgl)
+
+  Platforms: Android, Web
+
+  Author: Trinomio Studios
+
+  Genre: Platformer
