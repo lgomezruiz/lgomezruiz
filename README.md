@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src="https://github.com/lgomezruiz/lgomezruiz/assets/97950503/d50af19a-60bd-4e3f-9d9a-fd927231b735" height=60% width=60%>
+  <img src="https://github.com/lgomezruiz/lgomezruiz/assets/97950503/d50af19a-60bd-4e3f-9d9a-fd927231b735">
 </p>
 
 [![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/lgomezruiz)
