@@ -1,6 +1,3 @@
-<p align = "center">
-  <img src="https://github.com/lgomezruiz/lgomezruiz/assets/97950503/d50af19a-60bd-4e3f-9d9a-fd927231b735">
-</p>
 
 [![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/lgomezruiz)
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lgomezruiz/)
@@ -21,7 +18,7 @@
 - ⚡ Fun fact: I like to make videos of nature, snorkeling and hiking
 
 ## Languages and Tools
-<p align = "left">
+
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -30,7 +27,7 @@
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-</p>
+
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lgomezruiz&show_icons=true&locale=en&layout=compact" alt="lgomezruiz" /></p> -->
 
