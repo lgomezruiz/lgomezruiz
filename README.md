@@ -32,24 +32,3 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lgomezruiz&show_icons=true&locale=en&layout=compact" alt="lgomezruiz" /></p> -->
 
-## My Best Projects
-
-- [DIGITAL CLOCK](https://github.com/lgomezruiz/Digital-Clock)
-
-  A simple digital clock that displays the local system time, day of the week and date.
-
-- [TIC TAC TOE](https://github.com/lgomezruiz/Tic-Tac-Toe.git)
-
-  Mythical Tic Tac Toe game with a simple and minimalist style.
-
-- [BEVERAGE WAREHOUSE](https://github.com/lgomezruiz/Beverage-Warehouse)
-
-  Small program to create a beverage warehouse using Object Oriented Programming (OPP).
-  
-- [HOOKIE WATERS](https://trinomiostudios.itch.io/hooky-waters-webgl)
-
-  Platforms: Android, Web
-
-  Author: Trinomio Studios
-
-  Genre: Platformer
