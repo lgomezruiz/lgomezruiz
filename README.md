@@ -5,7 +5,7 @@
 
 ## About Me
 
-- 💻 All my projects are available at my repositories
+- 💻 All my projects are available at my [![Portfolio]](https://lauragomezruiz.netlify.app/)
 
 - 🔭 I’m currently working on [RPG Game](https://github.com/lgomezruiz/RPG_GAME1)
 
