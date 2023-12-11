@@ -15,8 +15,6 @@
 - 👀 I’m looking for an amazing company to develop myself
 
 - 💪 I'm eager to keep learning
-  
-- ⚡ Fun fact: I like to make videos of nature, snorkeling and hiking
 
 ## Languages and Tools
 
