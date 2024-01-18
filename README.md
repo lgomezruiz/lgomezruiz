@@ -1,5 +1,5 @@
 
-![Portfolio](https://img.shields.io/badge/Portfolio-CEE7FF?style=for-the-badge&labelColor=black&link=https%3A%2F%2Flauragomezruiz.netlify.app%2F)(https://lauragomezruiz.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-CEE7FF?style=for-the-badge&labelColor=black&link=https%3A%2F%2Flauragomezruiz.netlify.app%2F)](https://lauragomezruiz.netlify.app/)
 [![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/lgomezruiz)
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lgomezruiz/)
 <!--[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/onebreathlaura/)-->
