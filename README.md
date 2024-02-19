@@ -10,8 +10,6 @@
 
 Junior Backend Developer, creating projects and learning new technologies. 
 
-Actively seeking a job opportunity to grow professionally and increase my knowledge. 
-
 I also studied Marine Sciences, a degree with which I obtained multidisciplinary knowledge of Mathematics and Sciences.
 
 ---
