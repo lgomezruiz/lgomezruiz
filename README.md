@@ -14,7 +14,7 @@ Junior Backend Developer, creating projects and learning new technologies. Activ
 
 ## Projects
 
-- 💻 All my projects are available at my [Portfolio](https://lauragomezruiz.netlify.app/)
+💻 All my projects are available at my [Portfolio](https://lauragomezruiz.netlify.app/)
 
 ---
 
