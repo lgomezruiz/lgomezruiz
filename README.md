@@ -1,16 +1,20 @@
-## Contact Me:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgomezruiz/)
-[![github](https://img.shields.io/badge/GitHub-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lgomezruiz)
+<div align="center"> 
+
+## Hi! I'm Laura Gómez Ruiz
+### Backend Developer | Java | Springboot | SQL | HTML
+</div>
+
+<div align="justify"> Backend Developer with <b>1 year of experience</b> in own projects, such as creating <b>software development</b> and <b>REST API</b>. Learning at the same time Frontend technologies that complement my profile. I stand out for my adaptability and teamwork skills. Actively seeking a job opportunity to grow in a professional environment and learn/improve skills. Additionally, I studied Marine Sciences, which provided me with multidisciplinary knowledge of Mathematics and Science. </div>
+<br>
+
+<div align="center">
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-CEE7FF?style=for-the-badge&labelColor=black&link=https%3A%2F%2Flauragomezruiz.netlify.app%2F)](https://lauragomezruiz.netlify.app/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgomezruiz/)
+
+</div>
+<!-- [![github](https://img.shields.io/badge/GitHub-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lgomezruiz) -->
 <!--[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/onebreathlaura/)-->
-
----
-
-## About Me
-
-Junior Backend Developer, creating projects and learning new technologies. 
-
-I also studied Marine Sciences, a degree with which I obtained multidisciplinary knowledge of Mathematics and Sciences.
 
 ---
 
@@ -19,6 +23,7 @@ I also studied Marine Sciences, a degree with which I obtained multidisciplinary
 💻 All my projects are available at my [Portfolio](https://lauragomezruiz.netlify.app/)
 
 ---
+
 ## Skills:
 
 Languages:
@@ -58,8 +63,14 @@ Soft Skills:
 ![Adaptability](https://img.shields.io/badge/Adaptability-D6B600?style=for-the-badge&labelColor=white)
 ![Communication](https://img.shields.io/badge/Communication-D6B600?style=for-the-badge&labelColor=white)
 
+---
 
+## Github Stats
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=lgomezruiz&show_icons=true&count_private=true&hide_border=true" align="center"/>
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lgomezruiz&show_icons=true&locale=en&layout=compact" alt="lgomezruiz" /></p> -->
+<br>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lgomezruiz&show_icons=true&locale=en&layout=compact" alt="lgomezruiz" /></p>
+</div>
