@@ -1,7 +1,7 @@
 <div align="center"> 
 
-## Hi! I'm Laura Gómez Ruiz
-### Backend Developer | Java | Springboot | SQL | HTML
+# Hi! I'm Laura Gómez Ruiz
+## Backend Developer | Java | Springboot | SQL | HTML
 </div>
 
 <div align="justify"> Backend Developer with <b>1 year of experience</b> in own projects, such as creating <b>software development</b> and <b>REST API</b>. Learning at the same time Frontend technologies that complement my profile. I stand out for my adaptability and teamwork skills. Actively seeking a job opportunity to grow in a professional environment and learn/improve skills. Additionally, I studied Marine Sciences, which provided me with multidisciplinary knowledge of Mathematics and Science. </div>
