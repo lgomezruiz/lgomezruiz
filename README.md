@@ -16,13 +16,9 @@
 <!-- [![github](https://img.shields.io/badge/GitHub-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lgomezruiz) -->
 <!--[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/onebreathlaura/)-->
 
----
-
 ## Projects
 
 💻 All my projects are available at my [Portfolio](https://lauragomezruiz.netlify.app/)
-
----
 
 ## Skills:
 
@@ -62,8 +58,6 @@ Soft Skills:
 ![Team work](https://img.shields.io/badge/Team%20work-D6B600?style=for-the-badge&labelColor=white)
 ![Adaptability](https://img.shields.io/badge/Adaptability-D6B600?style=for-the-badge&labelColor=white)
 ![Communication](https://img.shields.io/badge/Communication-D6B600?style=for-the-badge&labelColor=white)
-
----
 
 ## Github Stats
 <div align="center">
