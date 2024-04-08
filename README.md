@@ -4,7 +4,7 @@
 ## Full Stack Developer | Java | Springboot | SQL | HTML
 </div>
 
-<div align="justify"> Full SStack Developer with <b>1 year of experience</b> in own projects, such as creating <b>software development</b> and <b>REST API</b>. I stand out for my adaptability and teamwork skills. Additionally, I studied Marine Sciences, which provided me with multidisciplinary knowledge of Mathematics and Science. </div>
+<div align="justify"> Full Stack Developer with <b>1 year of experience</b> in own projects, such as creating <b>software development</b> and <b>REST API</b>. I stand out for my adaptability and teamwork skills. Additionally, I studied Marine Sciences, which provided me with multidisciplinary knowledge of Mathematics and Science. </div>
 <br>
 
 <div align="center">
