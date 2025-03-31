@@ -2,12 +2,12 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%C2%A1Hola+a+todos!+%E2%80%8B%F0%9F%91%8B%F0%9F%8F%BB%E2%80%8B%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Soy+Laura+G%C3%B3mez+Ruiz" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=2000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Soy+Laura+G%C3%B3mez+Ruiz" alt="Typing SVG" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=12&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Backend+Developer+%7C+Java+%7C+JavaScript+%7C+Springboot+%7C+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=2000&size=10&pause=2000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Desarrollo+Web+%7C+Desarrollo+Backend+%7C+Java+%7C+JavaScript+%7C+Spring+Boot+%7C+SQL" alt="Typing SVG" />
 </h1>
 
-<div align="justify"> Backend Developer con <b>más de 1 año de experiencia</b> en proyectos propios, tales como el <b>desarrollo de software</b> y <b>API REST</b>. Me destaco por mis habilidades de adaptabilidad y trabajo en equipo. Además, estudié Ciencias del Mar, el cual me proporcionó conocimientos multidisciplinares de Matemáticas y Ciencias. </div>
+<div align="justify"> Desarrolladora Web con <b>más de 1 año de experiencia</b> en proyectos, especializada en soluciones escalables y seguras. Apasionada por el desarrollo back-end, sigo perfeccionando mis habilidades en Java y Spring. Busco un entorno donde aplicar mis conocimientos técnicos y potenciar mi capacidad de trabajo en equipo y comunicación para contribuir al desarrollo tecnológico.</div>
 <br>
 
 <div align="center">
